@@ -1,0 +1,1 @@
+!! In oder to use this tool, download and install scrapy. !!
