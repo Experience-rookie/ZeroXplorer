@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Crawler output
+zeroxer.json
+
+# Log files
+*.log
+
+# Virtual environment
+venv/
