@@ -9,6 +9,6 @@ This is an advanced web crawler built with Scrapy. It extracts various types of 
 
 ## Running the Crawler
 Replace http://abcd.com with your desired starting URL.
-"python3 advanced_crawler.py http://abcd.com"
+"python3 zeroxplorer.py http://abcd.com"
 
 
