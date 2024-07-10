@@ -7,3 +7,8 @@ This is an advanced web crawler built with Scrapy. It extracts various types of 
 - Detailed logging and error handling.
 - Outputs results to `zeroxer.json`.
 
+## Running the Crawler
+Replace http://abcd.com with your desired starting URL.
+"python3 advanced_crawler.py http://abcd.com"
+
+
